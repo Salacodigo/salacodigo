@@ -9,14 +9,14 @@
 
 <br />
 
-Hi, I'm [Santiago!](https://www.linkedin.com/in/santiagosalamancadev), and I enjoy creating technological solutions.
+Hi, I'm [Santiago!](https://www.linkedin.com/in/santiagosalamancadev), and I enjoy creating technology solutions.
 
 
   
-**Talking about Personal Stuffs:**
+**What am I doing?:**
 
 - 🌱 I’m currently learning Javascript, HTML, CSS, and Nodejs- Express to become a full-stack developer; 
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+
 
 
 **Languages and Tools:**  
