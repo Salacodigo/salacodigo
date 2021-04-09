@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/santiagosalamancadev">
   <img align="left" alt="Santiago Salamanca LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/saulhrmano">
+<a href="https://twitter.com/salacodigo">
   <img align="left" alt="Santiago Salamanca | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
