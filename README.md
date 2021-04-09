@@ -15,7 +15,11 @@ Hi, I'm [Santiago!](https://www.linkedin.com/in/santiagosalamancadev), and I enj
   
 **What am I doing?:**
 
-- 🌱 I’m currently learning Javascript, HTML, CSS, and Nodejs- Express to become a full-stack developer; 
+- 🌱 I’m currently learning Javascript - React, HTML, CSS - Sass, and Nodejs- Express to become a full-stack developer; 
+
+I'm curious and I like to learn new things. As a civil engineer I would like to use my skills to build smart cities. 
+
+Feel free to contact me. It'll be a pleasure to know about you, 
 
 
 
