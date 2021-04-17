@@ -9,17 +9,39 @@
 
 <br />
 
-Hi, I'm [Santiago!](https://www.linkedin.com/in/santiagosalamancadev), and I enjoy creating technology solutions.
+Hi, I'm [Santiago!](https://www.linkedin.com/in/santiagosalamancadev), and I enjoy developing technology solutions.
 
+It's not just about typing lines of code, but to solve problems for those who need it.
 
   
 **What am I doing?:**
 
-- 🌱 I’m currently learning Javascript - React, HTML, CSS - Sass, and Nodejs- Express to become a full-stack developer; 
+- 🌱 I’m currently learning Javascript - 
+Frontend:
+React, HTML, CSS - Sass
 
-I'm curious and I like to learn new things. As a civil engineer I would like to use my skills to build smart cities. 
+Backend:
+Nodejs
 
-Feel free to contact me. It'll be a pleasure to know about you, 
+
+**What am I interested in?:**
+
+I'm curious and I like to learn new things.
+Currently, I'm a [@Protalento](https://protalento.org) student and crypto scholarship holder at [@Platzi](https://platzi.com/home) with [@soyfira](https://www.instagram.com/soyfira/?hl=es-la) as a sponsor
+
+
+**What am I good a??:**
+
+As a civil engineer I would like to use my skills to build smart cities and contribute in projects about digital transformation. 
+
+Feel free to contact me if you need someone with advanced mathematical skills and developed analytical thinking.
+
+It'll be a pleasure to know about you.
+
+
+***Note: ***
+
+As a future project, I will learn Python to analyze data and broaden my perspective on problems. Currently I can program scripts with the fundamentals of Python.
 
 
 
