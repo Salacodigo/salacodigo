@@ -13,6 +13,8 @@ Hi, I'm [Santiago!](https://www.linkedin.com/in/santiagosalamancadev), and I enj
 
 It's not just about typing lines of code, but to solve problems for those who need it.
 
+
+
   
 **What am I doing?:**
 
@@ -24,19 +26,30 @@ Backend:
 Nodejs
 
 
+
+
 **What am I interested in?:**
 
 I'm curious and I like to learn new things.
 Currently, I'm a [@Protalento](https://protalento.org) student and crypto scholarship holder at [@Platzi](https://platzi.com/home) with [@soyfira](https://www.instagram.com/soyfira/?hl=es-la) as a sponsor
 
 
-**What am I good a??:**
+
+
+**What am I good at?:**
 
 As a civil engineer I would like to use my skills to build smart cities and contribute in projects about digital transformation. 
 
 Feel free to contact me if you need someone with advanced mathematical skills and developed analytical thinking.
 
 It'll be a pleasure to know about you.
+
+
+
+**Project:**
+https://salacodigo.github.io/Acamica-Blue-dot/
+
+
 
 
 ***Note: ***
