@@ -9,7 +9,7 @@
 
 <br/>
 <br/>
-💡Hi, I'm [Santiago!](https://www.linkedin.com/in/santiagosalamancadev), and I enjoy developing technology solutions.
+💡Hi, I'm [Santiago](https://www.linkedin.com/in/santiagosalamancadev)!, and I enjoy developing technology solutions.
 <br/>
 It's not just about typing lines of code, but to solve problems for those who need it.
 <br/>
@@ -17,13 +17,13 @@ It's not just about typing lines of code, but to solve problems for those who ne
 💡
 **What am I doing?:**
 
-🌱 I’m currently learning Javascript. 
+🌱 I’m currently learning Java and Javascript. 
 <br/>
 Frontend:
-React, HTML, CSS - Sass.
+Angular 2+, HTML, CSS - Sass.
 <br/>
 Backend:
-Nodejs
+Nodejs, Java
 <br/>
 <br/>
 💡
@@ -31,7 +31,7 @@ Nodejs
 <br/>
 I'm curious and I like to learn new things.
 <br/>
-Currently, I'm a [@Protalento](https://protalento.org) student and crypto scholarship holder at [@Platzi](https://platzi.com/home) with [@soyfira](https://www.instagram.com/soyfira/?hl=es-la) as a sponsor.
+Currently, I'm a [@Protalentolatam](https://protalento.org) student and crypto scholarship holder at [@Platzi](https://platzi.com/home) with [@soyfira](https://www.instagram.com/soyfira/?hl=es-la) as a sponsor.
 <br/>
 <br/>
 💡
