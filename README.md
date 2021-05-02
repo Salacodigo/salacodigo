@@ -9,15 +9,15 @@
 
 <br/>
 <br/>
-💡Hi, I'm [Santiago](https://www.linkedin.com/in/santiagosalamancadev)!, and I enjoy developing technology solutions.
+💡 Hi, I'm Santiago!, and I enjoy developing technology solutions.
 <br/>
 It's not just about typing lines of code, but to solve problems for those who need it.
 <br/>
 <br/>
-💡
+💡 
 **What am I doing?:**
-
-🌱 I’m currently learning Java and Javascript. 
+<br/>
+🌱 I’m currently learning Java and Javascript. <br/>
 <br/>
 Frontend:
 Angular 2+, HTML, CSS - Sass.
@@ -29,14 +29,15 @@ Nodejs, Java
 💡
 **What am I interested in?:**
 <br/>
+<br/>
 I'm curious and I like to learn new things.
 <br/>
-Currently, I'm a [@Protalentolatam](https://protalento.org) student and crypto scholarship holder at [@Platzi](https://platzi.com/home) with [@soyfira](https://www.instagram.com/soyfira/?hl=es-la) as a sponsor.
+Currently, I'm a [@Protalentolatam](https://protalento.org) student and crypto scholarship holder at [@Platzi](https://platzi.com/home) with [@soyfira](https://www.instagram.com/soyfira/?hl=es-la) as my sponsor.
 <br/>
 <br/>
 💡
 **What am I good at?:**
-<br/>
+<br/><br/>
 As a civil engineer I would like to use my skills to build smart cities and contribute in projects about digital transformation.
 <br/>
 Feel free to contact me if you need someone with advanced mathematical skills and developed analytical thinking.
@@ -45,7 +46,7 @@ It'll be a pleasure to know about you.
 <br/>
 <br/>
 💡
-**Project:**
+**Project:**<br/><br/>
 https://salacodigo.github.io/Acamica-Blue-dot/
 <br/>
 <br/>
