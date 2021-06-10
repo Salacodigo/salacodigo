@@ -5,36 +5,35 @@
 <a href="https://twitter.com/salacodigo">
   <img align="left" alt="Santiago Salamanca | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-
-
-<br/>
-<br/>
+<br/><br/>
 💡 Hi, I'm Santiago!, and I enjoy developing technology solutions.
 <br/>
 It's not just about typing lines of code, but to solve problems for those who need it.
-<br/>
-<br/>
+<br/><br/>
+💡
+**Main Projects:**<br/><br/>
+[Landing page Podcast](https://salacodigo.github.io/Acamica-Blue-dot/)
+<br/><br/>
+[Search GIFS app](https://salacodigo.github.io/sprintGIFOS/pages/index.html)
+<br/><br/>
 💡 
 **What am I doing?:**
 <br/>
-🌱 I’m currently learning Java and Javascript. <br/>
+🌱 I’m currently learning Javascript, Typescript, Angular. <br/>
 <br/>
 Frontend:
 Angular 2+, HTML, CSS - Sass.
 <br/>
 Backend:
-Nodejs, Java
-<br/>
-<br/>
+Nodejs
+<br/><br/>
 💡
 **What am I interested in?:**
-<br/>
-<br/>
+<br/><br/>
 I'm curious and I like to learn new things.
 <br/>
 Currently, I'm a [@Protalentolatam](https://protalento.org) student and crypto scholarship holder at [@Platzi](https://platzi.com/home) with [@soyfira](https://www.instagram.com/soyfira/?hl=es-la) as my sponsor.
-<br/>
-<br/>
+<br/><br/>
 💡
 **What am I good at?:**
 <br/><br/>
@@ -43,13 +42,8 @@ As a civil engineer I would like to use my skills to build smart cities and cont
 Feel free to contact me if you need someone with advanced mathematical skills and developed analytical thinking.
 <br/>
 It'll be a pleasure to know about you.
-<br/>
-<br/>
-💡
-**Project:**<br/><br/>
-https://salacodigo.github.io/Acamica-Blue-dot/
-<br/>
-<br/>
+<br/><br/>
+
 ***Note: ***
 <br/>
 As a future project, I will learn Python to analyze data and broaden my perspective on problems. Currently I can program scripts with the fundamentals of Python.
