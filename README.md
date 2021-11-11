@@ -9,31 +9,36 @@
 💡 Hi, I'm Santiago!, and I enjoy developing technology solutions.
 <br/>
 It's not just about typing lines of code, but to solve problems for those who need it.
-<br/><br/>
+<br/><br/><br/>
 💡
 **Main Projects:**<br/><br/>
 [Landing page Podcast](https://salacodigo.github.io/Acamica-Blue-dot/)
 <br/><br/>
 [Search GIFS app](https://salacodigo.github.io/sprintGIFOS/pages/index.html)
 <br/><br/>
+[API for a restaurant](https://github.com/Salacodigo/Delillah-Acamica)
+<br/><br/>
+
+
+https://github.com/Salacodigo/Delillah-Acamica
 💡 
 **What am I doing?:**
 <br/>
-🌱 I’m currently learning Javascript, Typescript, Angular. <br/>
+🌱 I’m currently developing in Angular 2+ while I'm learning unit testing, springBoot. I'm in a fullstack position right now <br/>
 <br/>
 Frontend:
 Angular 2+, HTML, CSS - Sass.
 <br/>
 Backend:
 Nodejs
-<br/><br/>
+<br/><br/><br/>
 💡
 **What am I interested in?:**
 <br/><br/>
 I'm curious and I like to learn new things.
 <br/>
 Currently, I'm a [@Protalentolatam](https://protalento.org) student and crypto scholarship holder at [@Platzi](https://platzi.com/home) with [@soyfira](https://www.instagram.com/soyfira/?hl=es-la) as my sponsor.
-<br/><br/>
+<br/><br/><br/>
 💡
 **What am I good at?:**
 <br/><br/>
@@ -42,12 +47,12 @@ As a civil engineer I would like to use my skills to build smart cities and cont
 Feel free to contact me if you need someone with advanced mathematical skills and developed analytical thinking.
 <br/>
 It'll be a pleasure to know about you.
-<br/><br/>
+<br/><br/><br/>
 
 ***Note: ***
 <br/>
 As a future project, I will learn Python to analyze data and broaden my perspective on problems. Currently I can program scripts with the fundamentals of Python.
-<br/><br/>
+<br/><br/><br/>
 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
