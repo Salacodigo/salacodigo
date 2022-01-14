@@ -24,7 +24,7 @@ https://github.com/Salacodigo/Delillah-Acamica
 💡 
 **What am I doing?:**
 <br/>
-🌱 I’m currently developing in Angular 2+ while I'm learning unit testing, springBoot. I'm in a fullstack position right now <br/>
+🌱 I’m currently developing in Angular 2+ while I'm learning about AWS Cloud Services.<br/>
 <br/>
 Frontend:
 Angular 2+, HTML, CSS - Sass.
@@ -37,7 +37,7 @@ Nodejs
 <br/><br/>
 I'm curious and I like to learn new things.
 <br/>
-Currently, I'm a [@Protalentolatam](https://protalento.org) student and crypto scholarship holder at [@Platzi](https://platzi.com/home) with [@soyfira](https://www.instagram.com/soyfira/?hl=es-la) as my sponsor.
+Currently, I'm a [@Protalentolatam](https://protalento.org) alumni and a continuous learner at Plazti. I'm a crypto scholarship holder at [@Platzi](https://platzi.com/home) with [@soyfira](https://www.instagram.com/soyfira/?hl=es-la) as my sponsor.
 <br/><br/><br/>
 💡
 **What am I good at?:**
