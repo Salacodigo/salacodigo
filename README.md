@@ -14,8 +14,8 @@ It's not just about typing lines of code, but to solve problems for those who ne
 **Portfolio[In Progress]:**<br/><br/>
 Currently I'm building my portfolio.
 <br/><br/>
-💡 💡 💡 💡 💡 💡 
-[Portfolio](https://salacodigo.github.io/portfolio/src/)
+💡 💡 💡 💡 💡 💡 <br/>
+[Portfolio](https://salacodigo.github.io/portfolio/src/)<br/>
 💡 💡 💡 💡 💡 💡
 <br/><br/>
 💡
@@ -27,8 +27,10 @@ Currently I'm building my portfolio.
 [Search GIFS app](https://salacodigo.github.io/sprintGIFOS/pages/index.html)
 <br/><br/>
 [API for a restaurant](https://github.com/Salacodigo/Delillah-Acamica)
+<br/>
+[API for a restaurant - Postman Documentation](https://documenter.getpostman.com/view/13934848/UVC3j7rt)
 <br/><br/>
-[Delillah-Acamica](https://github.com/Salacodigo/Delillah-Acamica)
+
 💡 
 **What am I doing?:**
 <br/>
@@ -38,13 +40,13 @@ Frontend:
 Angular, React, HTML, CSS - Sass.
 <br/>
 Backend:
-Nodejs
+Nodejs, Python
 <br/><br/><br/>
 💡
 **What am I interested in?:**
 <br/><br/>
 I'm curious and I like to learn new things.
 <br/>
-Currently, I'm a [@Protalentolatam](https://protalento.org) alumni and a continuous learner at Plazti.
+I'm a [@Protalentolatam](https://protalento.org) alumni and a continuous learner at Platzi.
 <br/><br/><br/>
 
