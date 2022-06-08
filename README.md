@@ -15,7 +15,7 @@ It's not just about typing lines of code, but to solve problems for those who ne
 Currently I'm building my portfolio.
 <br/><br/>
 💡 💡 💡 💡 💡 💡 
-[https://salacodigo.github.io/portfolio/](https://salacodigo.github.io/portfolio/src/)
+[Portfolio](https://salacodigo.github.io/portfolio/src/)
 💡 💡 💡 💡 💡 💡
 <br/><br/>
 💡
@@ -28,7 +28,7 @@ Currently I'm building my portfolio.
 <br/><br/>
 [API for a restaurant](https://github.com/Salacodigo/Delillah-Acamica)
 <br/><br/>
-[https://github.com/Salacodigo/Delillah-Acamica](https://github.com/Salacodigo/Delillah-Acamica)
+[Delillah-Acamica](https://github.com/Salacodigo/Delillah-Acamica)
 💡 
 **What am I doing?:**
 <br/>
