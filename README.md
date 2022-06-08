@@ -9,18 +9,24 @@
 💡 Hi, I'm Santiago!, and I enjoy developing technology solutions.
 <br/>
 It's not just about typing lines of code, but to solve problems for those who need it.
-<br/><br/>
+<br/>
+<br/>
 💡
-**Portfolio[In Progress]:**<br/><br/>
+**Portfolio[In Progress]:**<br/>
 Currently I'm building my portfolio.
-<br/><br/>
+<br/>
+<br/>
+<br/>
+<br/>
 💡 💡 💡 💡 💡 💡 <br/>
 [Portfolio](https://salacodigo.github.io/portfolio/src/)<br/>
 💡 💡 💡 💡 💡 💡
-<br/><br/>
+<br/>
+<br/>
+<br/>
+<br/>
 💡
 **Main Projects:**<br/>
-
 <br/>
 [Landing page Podcast](https://salacodigo.github.io/Acamica-Blue-dot/)
 <br/><br/>
