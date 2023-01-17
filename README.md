@@ -6,22 +6,16 @@
   <img align="left" alt="Santiago Salamanca | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <br/><br/>
-💡 Hi, I'm Santiago!, and I enjoy developing technology solutions.
-<br/>
-It's not just about typing lines of code, but to solve problems for those who need it.
+💡 Hi, I'm Santiago!, and I enjoy solving problems using technology.
 <br/>
 <br/>
 💡
 **Portfolio[In Progress]:**<br/>
 Currently I'm building my portfolio.
 <br/>
-<br/>
-<br/>
-<br/>
 💡 💡 💡 💡 💡 💡 <br/>
 [Portfolio](https://salacodigo.github.io/portfolio/src/)<br/>
 💡 💡 💡 💡 💡 💡
-<br/>
 <br/>
 <br/>
 <br/>
@@ -36,24 +30,20 @@ Currently I'm building my portfolio.
 <br/>
 [API for a restaurant - Postman Documentation](https://documenter.getpostman.com/view/13934848/UVC3j7rt)
 <br/><br/>
-[Time Commuting Calculator](https://salacodigo.github.io/time-commuting/src/)
-<br/><br/>
 💡 
 **What am I doing?:**
 <br/>
-🌱 I’m currently developing with Javascript [Angular, React] while I'm learning about AWS Cloud Services.<br/>
+🌱 I’m currently developing with Javascript [Angular, React] and Flutter while I'm strengthening my AWS Cloud Services skills.<br/>
 <br/>
 Frontend:
 Angular, React, HTML, CSS - Sass.
 <br/>
 Backend:
-Nodejs, Python
+Nodejs.
 <br/><br/><br/>
 💡
-**What am I interested in?:**
-<br/><br/>
-I'm curious and I like to learn new things.
+I'm a self-learner, [@Protalentolatam](https://protalento.org) alumni and a continuous learner at Platzi too.
 <br/>
-I'm a [@Protalentolatam](https://protalento.org) alumni and a continuous learner at Platzi.
+I'm graduated from civil engineering from [uniandes](https://uniandes.edu.co)
 <br/><br/><br/>
 
