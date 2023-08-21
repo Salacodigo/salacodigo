@@ -11,16 +11,6 @@
 💡 Hi, I'm Santiago! Nice to have you here.
 <br/><br/>
 
-💡
-<br/>
-Frontend:
-Angular, React, HTML, CSS - Sass.
-<br/>
-Backend:
-Nodejs. Java-SpringBoot
-<br/><br/><br/>
-
-
 
 **Portfolio [In Progress]:**<br/>
 Currently I'm building my portfolio. 
